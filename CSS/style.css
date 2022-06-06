@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#First{
+    text-align: center;
+    background-color: #0D6EFD;
+    padding: 10rem 0 6rem;
+    color: #fff;
+}
+#First h1{
+    font-size: 37px;
+    margin-bottom: 0.5rem;
+    font-weight: bolder;
+}
+#First p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#First a{
+   text-decoration: none;
+   border: 1px solid #F8F9FA;
+   background-color: #F8F9FA;
+   padding: 0.5rem 1rem;
+   border-radius: 5px;
+   color: #000;
+   font-size: 20px;
+}
+#Second{
+    margin-left: 100px;
+    padding: 9rem 0;
+}
+#Third{
+    text-align: center;
+    padding: 9rem 0;
+    background-color: #F8F9FA;
+}
+#Fourth{
+    padding: 9rem 0;
+    margin: 100px;
+}
+#Fourth h2{
+    font-weight: bolder;
+    font-size: 31px;
+}
+#Fourth p{
+    font-size: 16px;
+}
+#Fifth {
+  padding: 48px;
+  background-color: #212529;
+  text-align: center;
+}
+#Fifth p {
+    color: #fff;
+}
